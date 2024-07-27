@@ -21,16 +21,16 @@ button:active {
   height: 40px;
   border-radius: 100%;
   text-align: center;
-  box-shadow: 0.2em 0.2em rgb(194, 91, 44);
-  -webkit-box-shadow: 0.2em 0.2em rgb(194, 91, 44);
-  -moz-box-shadow: 0.2em 0.2em rgb(194, 91, 44);
+  box-shadow: 0.2em 0.2em rgb(181, 176, 174);
+  -webkit-box-shadow: 0.2em 0.2em rgb(181, 176, 174);
+  -moz-box-shadow: 0.2em 0.2em rgb(181, 176, 174);
 }
 
 button:focus {
   translate: 0.2em 0.2em;
-  box-shadow: 0.2em 0.2em rgb(194, 91, 44) inset;
-  -webkit-box-shadow: 0.2em 0.2em rgb(194, 91, 44) inset;
-  -moz-box-shadow: 0.2em 0.2em rgb(194, 91, 44) inset;
+  box-shadow: 0.2em 0.2em rgb(181, 176, 174) inset;
+  -webkit-box-shadow: 0.2em 0.2em rgb(181, 176, 174) inset;
+  -moz-box-shadow: 0.2em 0.2em rgb(181, 176, 174) inset;
 }
 
 /* Clock Body */
@@ -70,7 +70,7 @@ button:focus {
   border-radius: 10px;
   height: 40px;
   flex: 2;
-  box-shadow: 3px 3px rgb(121, 145, 141) inset;
+  box-shadow: 3px 3px rgb(42, 42, 42) inset;
 }
 
 #timer-ssr {
